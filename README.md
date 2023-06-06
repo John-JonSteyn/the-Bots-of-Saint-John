@@ -10,7 +10,7 @@
 
 <!-- Title -->
 <br />
-<h3 align="center">The Knights of St John</h3>
+<h3 align="center">The Bots of St John</h3>
 
 <hr>
 
@@ -19,9 +19,9 @@
   Add prescription medicine, track stock, receive reminders, and more<br>
   <a href="#usage">View Demo</a>
   ·
-  <a href="https://github.com/Thorin-the-Bearded/the-Bots-of-Saint-John/issues">Report Bug</a>
+  <a href="https://github.com/John-JonSteyn/the-Bots-of-Saint-John/issues">Report Bug</a>
   ·
-  <a href="https://github.com/Thorin-the-Bearded/the-Bots-of-Saint-John/issues">Request Feature</a>
+  <a href="https://github.com/John-JonSteyn/the-Bots-of-Saint-John/issues">Request Feature</a>
 </p>
 </div>
 
@@ -67,7 +67,7 @@ This project is a medication management app designed for phones. It allows users
 ## Usage
 To use the Medication Management App, follow these steps:
 
-1. Navage to https://github.com/Thorin-the-Bearded/the-Bots-of-Saint-John/download/
+1. Navage to https://github.com/John-JonSteyn/the-Bots-of-Saint-John/download/
 2. Download the file for your device.
 3. Install the app.
 
@@ -92,13 +92,13 @@ The project utilizes the following resources:
 This project is licensed under the [GPL-3.0](LICENSE).
 
 <!-- Links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Thorin-the-Bearded/the-Bots-of-Saint-John.svg?style=for-the-badge
-[contributors-url]: https://github.com/Thorin-the-Bearded/the-Bots-of-Saint-John/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Thorin-the-Bearded/the-Bots-of-Saint-John.svg?style=for-the-badge
-[forks-url]: https://github.com/Thorin-the-Bearded/the-Bots-of-Saint-John/network/members
-[stars-shield]: https://img.shields.io/github/stars/Thorin-the-Bearded/the-Bots-of-Saint-John.svg?style=for-the-badge
-[stars-url]: https://github.com/Thorin-the-Bearded/the-Bots-of-Saint-John/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Thorin-the-Bearded/the-Bots-of-Saint-John.svg?style=for-the-badge
-[issues-url]: https://github.com/Thorin-the-Bearded/the-Bots-of-Saint-John/issues
-[license-shield]: https://img.shields.io/github/license/Thorin-the-Bearded/the-Bots-of-Saint-John.svg?style=for-the-badge
-[license-url]: https://github.com/Thorin-the-Bearded/the-Bots-of-Saint-John/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/John-JonSteyn/the-Bots-of-Saint-John.svg?style=for-the-badge
+[contributors-url]: https://github.com/John-JonSteyn/the-Bots-of-Saint-John/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/John-JonSteyn/the-Bots-of-Saint-John.svg?style=for-the-badge
+[forks-url]: https://github.com/John-JonSteyn/the-Bots-of-Saint-John/network/members
+[stars-shield]: https://img.shields.io/github/stars/John-JonSteyn/the-Bots-of-Saint-John.svg?style=for-the-badge
+[stars-url]: https://github.com/John-JonSteyn/the-Bots-of-Saint-John/stargazers
+[issues-shield]: https://img.shields.io/github/issues/John-JonSteyn/the-Bots-of-Saint-John.svg?style=for-the-badge
+[issues-url]: https://github.com/John-JonSteyn/the-Bots-of-Saint-John/issues
+[license-shield]: https://img.shields.io/github/license/John-JonSteyn/the-Bots-of-Saint-John.svg?style=for-the-badge
+[license-url]: https://github.com/John-JonSteyn/the-Bots-of-Saint-John/blob/master/LICENSE
